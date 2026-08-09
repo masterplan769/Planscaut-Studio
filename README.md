@@ -133,7 +133,7 @@ Contributions, suggestions, and bug reports are welcome.
 To contribute:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/planscaut-studio.git
+git clone https://github.com/masterplan769/planscaut-studio.git
 ```
 
 Create a new branch:
