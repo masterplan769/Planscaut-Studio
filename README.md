@@ -89,7 +89,8 @@ planscaut-studio/
 
 ## 🎯 Purpose
 
-Planscaut Studio was created as a personal development project with the goal of building a simple code editor without relying on a large existing IDE.
+Planscaut Studio was created as a personal development project with the goal of building a simple code
+editor without relying on a large existing IDE.
 
 The project focuses on:
 
