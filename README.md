@@ -171,9 +171,13 @@ More features and improvements are planned for future versions.
 
 **A lightweight code editor built with Python and PyQt5.**
 
-MIT License
 
-**Copyright (c) 2026 Planscaut**
+---
+
+
+**MIT License**
+
+Copyright (c) 2026 Planscaut
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
