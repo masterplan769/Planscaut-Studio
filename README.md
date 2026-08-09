@@ -79,10 +79,13 @@ Planscaut Studio should open in a new window.
 ```text
 planscaut-studio/
 │
-├── planscaut_studio.py
+├── planscaut_studio.exe
+├── code_editor_logo.png
+├── hasidic_coder_logo.ico
+├── screenshot.png
 ├── README.md
-└── ...
-```
+├── LICENSE
+
 
 ## 🎯 Purpose
 
