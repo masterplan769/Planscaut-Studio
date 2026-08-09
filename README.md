@@ -19,8 +19,7 @@
 
 ## 🖥️ Screenshots
 
-*Add screenshots of Planscaut Studio here.*
-
+![Planscaut Studio Screenshot](screenshots/screenshot.png)
 ```text
 Planscaut Studio
 ├── File Explorer
