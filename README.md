@@ -49,7 +49,7 @@ Before running Planscaut Studio, make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/planscaut-studio.git
+git clone https://github.com/masterplan769/planscaut-studio.git
 ```
 
 Enter the project directory:
